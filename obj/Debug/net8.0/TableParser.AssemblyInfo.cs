@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TableParser")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ca46d8ce23cbc30b08654f88b583b529236d4e4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63b3c8b8b0eb815cef8a995a2675001d66151e36")]
 [assembly: System.Reflection.AssemblyProductAttribute("TableParser")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TableParser")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

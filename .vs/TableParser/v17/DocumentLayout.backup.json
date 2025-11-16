@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Braixen\\dev\\ulearn\\TableParser\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{33876C12-E294-4D89-6561-A5C8ED739643}|TableParser.csproj|c:\\users\\braixen\\dev\\ulearn\\tableparser\\quotedfieldtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33876C12-E294-4D89-6561-A5C8ED739643}|TableParser.csproj|solutionrelative:quotedfieldtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{33876C12-E294-4D89-6561-A5C8ED739643}|TableParser.csproj|c:\\users\\braixen\\dev\\ulearn\\tableparser\\fieldsparsertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33876C12-E294-4D89-6561-A5C8ED739643}|TableParser.csproj|solutionrelative:fieldsparsertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33876C12-E294-4D89-6561-A5C8ED739643}|TableParser.csproj|c:\\users\\braixen\\dev\\ulearn\\tableparser\\tableparser.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{33876C12-E294-4D89-6561-A5C8ED739643}|TableParser.csproj|solutionrelative:tableparser.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{33876C12-E294-4D89-6561-A5C8ED739643}|TableParser.csproj|c:\\users\\braixen\\dev\\ulearn\\tableparser\\quotedfieldtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33876C12-E294-4D89-6561-A5C8ED739643}|TableParser.csproj|solutionrelative:quotedfieldtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{33876C12-E294-4D89-6561-A5C8ED739643}|TableParser.csproj|c:\\users\\braixen\\dev\\ulearn\\tableparser\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33876C12-E294-4D89-6561-A5C8ED739643}|TableParser.csproj|solutionrelative:token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33876C12-E294-4D89-6561-A5C8ED739643}|TableParser.csproj|c:\\users\\braixen\\dev\\ulearn\\tableparser\\tableparser.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{33876C12-E294-4D89-6561-A5C8ED739643}|TableParser.csproj|solutionrelative:tableparser.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,52 +34,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TableParser",
+              "DocumentIndex": 3,
+              "Title": "TableParser.csproj",
               "DocumentMoniker": "C:\\Users\\Braixen\\dev\\ulearn\\TableParser\\TableParser.csproj",
               "RelativeDocumentMoniker": "TableParser.csproj",
               "ToolTip": "C:\\Users\\Braixen\\dev\\ulearn\\TableParser\\TableParser.csproj",
               "RelativeToolTip": "TableParser.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-16T14:49:46.708Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-16T14:49:46.708Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Token.cs",
               "DocumentMoniker": "C:\\Users\\Braixen\\dev\\ulearn\\TableParser\\Token.cs",
               "RelativeDocumentMoniker": "Token.cs",
               "ToolTip": "C:\\Users\\Braixen\\dev\\ulearn\\TableParser\\Token.cs",
               "RelativeToolTip": "Token.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-16T14:47:41.719Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "QuotedFieldTask.cs",
               "DocumentMoniker": "C:\\Users\\Braixen\\dev\\ulearn\\TableParser\\QuotedFieldTask.cs",
               "RelativeDocumentMoniker": "QuotedFieldTask.cs",
               "ToolTip": "C:\\Users\\Braixen\\dev\\ulearn\\TableParser\\QuotedFieldTask.cs",
               "RelativeToolTip": "QuotedFieldTask.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAYwDgAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-16T14:46:21.707Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "FieldsParserTask.cs",
               "DocumentMoniker": "C:\\Users\\Braixen\\dev\\ulearn\\TableParser\\FieldsParserTask.cs",
               "RelativeDocumentMoniker": "FieldsParserTask.cs",
               "ToolTip": "C:\\Users\\Braixen\\dev\\ulearn\\TableParser\\FieldsParserTask.cs",
               "RelativeToolTip": "FieldsParserTask.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-16T14:46:18.633Z",
               "EditorCaption": ""
